@@ -44,6 +44,3 @@ print(f"Memory Usage: {memory_usage:.2f}%")
 cap.release()
 cv2.destroyAllWindows()
 
-
-
-
